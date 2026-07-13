@@ -1,0 +1,6 @@
+{
+  "name": "Manajemen Risiko Strategis SPIP",
+  "description": "Aplikasi Sistem Informasi Manajemen Risiko Strategis (SPIP) Pemerintah Provinsi Papua Tengah Tahun 2026 berdasarkan kertas kerja terstandar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
